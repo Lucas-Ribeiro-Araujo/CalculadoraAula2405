@@ -1,0 +1,9 @@
+C:\Users\arauj\source\repos\Calculadora2405\bin\Debug\Calculadora2405.exe.config
+C:\Users\arauj\source\repos\Calculadora2405\bin\Debug\Calculadora2405.exe
+C:\Users\arauj\source\repos\Calculadora2405\bin\Debug\Calculadora2405.pdb
+C:\Users\arauj\source\repos\Calculadora2405\obj\Debug\Calculadora2405.csproj.AssemblyReference.cache
+C:\Users\arauj\source\repos\Calculadora2405\obj\Debug\Calculadora2405.csproj.CoreCompileInputs.cache
+C:\Users\arauj\source\repos\Calculadora2405\obj\Debug\Calculadora2405.exe
+C:\Users\arauj\source\repos\Calculadora2405\obj\Debug\Calculadora2405.pdb
+C:\Users\arauj\source\repos\Calculadora2405\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\arauj\source\repos\Calculadora2405\obj\Debug\Calculadora2405.csproj.CopyComplete
